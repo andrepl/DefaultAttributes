@@ -1,0 +1,23 @@
+items:
+  diamond_chestplate:
+    weight_modifier:
+      attribute: generic.movementSpeed
+      amount: 0.01
+      operation: 0
+  diamond_leggings:
+    weight_modifier:
+      attribute: generic.movementSpeed
+      amount: 0.01
+      operation: 0
+  diamond_helmet:
+    weight_modifier:
+      attribute: generic.movementSpeed
+      amount: 0.003
+      operation: 0
+  diamond_boots:
+    weight_modifier:
+      attribute: generic.movementSpeed
+      amount: 0.005
+      operation: 0
+
+
